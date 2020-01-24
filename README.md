@@ -1,14 +1,10 @@
 # CatServer
-Minecraft 1.12.2 Forge+Bukkit+Spigot服务端<br>
+Minecraft 1.12.2 Forge+Bukkit+Spigotserver<br>
 
-开发/反馈QQ群: 801482055<br>
+Development/Feedback QQ Group: 801482055<br>
 Telegram group: @CatServer
 - - -
-### 特点
-支持高版本MOD/Bukkit插件<br>
-支持spigot插件<br>
-支持NMS的remap<br>
-性能更高更稳定<br>
+### Features 8 Supports high version MOD / Bukkit plugins <br> 9 Supports spigot plugins <br> 10 Support NMS remap <br> 11 Higher performance and stability <br>
 - - -
 ### About
 Support for high version of Forge MOD and Spigot plugin<br>
